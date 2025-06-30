@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Header](./header.png)
 
 # Rexlin Developer  
 🔧 Full‑stack developer focusing on **T3 Stack**, **React Native**, **Flutter**, **Python AI**, **C++/Java/Rust**.
