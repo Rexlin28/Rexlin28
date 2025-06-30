@@ -36,17 +36,17 @@ My main toolkit includes building robust web apps, mobile applications, and AI i
 
 ### 🔹 [Vrakka](https://www.vrakka.app)
 Wellness mobile app combining habit tracking with tokenized incentives.  
-**Built with:** T3 Stack, React Native, Flutter.
+
 
 ### 🔹 [Debor.ai](https://www.producthunt.com/products/debor-ai)
 AI-powered platform for transcribing and semantically analyzing legal cases.
 
 ### 🔹 [Networking](https://networking-web.vercel.app/)
 Social network to connect professionals and expand opportunities.  
-**Built with:** T3 Stack, Next.js, tRPC, Prisma, Tailwind CSS.
+
 
 ### 🔹 N8N & Vapi Integrations
-Custom AI workflows for real‑time process automation, including voice assistants and AI secretaries.
+Custom AI workflows for real‑time process automation, including voice assistants with AI .
 
 ---
 
@@ -57,8 +57,5 @@ Custom AI workflows for real‑time process automation, including voice assistan
 
 ---
 ## 📫 Connect with Me  
-[LinkedIn]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/oscararielquintanamerino/))  
+[LinkedIn](https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/oscararielquintanamerino/))  
 
-## 📊 Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rexlin28&show_icons=true&theme=radical)  
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rexlin28&layout=compact&theme=radical)
