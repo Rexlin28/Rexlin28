@@ -1,36 +1,64 @@
 ![Header](./header.png)
 
 # FullStack Developer  
-🔧 Full‑stack developer focusing on **T3 Stack**, **React Native**, **Flutter**, **Python AI**, **C++/Java/Rust**.
+🔧 Full‑Stack Developer | AI & Automation Enthusiast
 
-## 🚀 About Me  
-I specialize in building real-world automation and innovative solutions. From mobile apps to AI-powered desktop tools, I enjoy solving complex problems with clean, scalable code.
+---
 
-## 💼 Featured Projects
+## 🚀 About Me
+I craft real‑world solutions through clean code, cross‑platform development, and smart automation.  
+My main toolkit includes building robust web apps, mobile applications, and AI integrations.
 
-### 🔹 Vrakka  
-Mobile app for wellness and habit building, integrated with AI and token‑based incentives (web: Vrakka.app) :contentReference[oaicite:1]{index=1}  
-**Tech:** T3 Stack, React Native, Flutter
+---
 
-### 🔹 Debor.ai  
-AI‑powered platform launched June 2025 for transcription & semantic analysis of judicial cases—real‑time, high‑accuracy, enterprise‑grade legal tech :contentReference[oaicite:2]{index=2}  
-**Tech:** Python (AI/ML), backend orchestration, full‑stack deployment
+## 💻 **Tech Stack**
 
-## 💡 Core Skills  
-- **Frontend & Mobile:** T3 Stack, React Native, Flutter  
-- **Backend & Servers:** Node.js, TypeScript, Python  
-- **AI / Machine Learning:** Neural networks in Python, semantic search  
-- **Desktop apps:** C++, Java, Rust  
-- **Dev tooling:** CI/CD, Docker, cloud deployment
+### 🌐 **Web Development**
+- **T3 Stack**:  
+   - **TypeScript** for type‑safe full‑stack development  
+   - **Next.js** for server‑side rendering and API routes  
+   - **tRPC** for end‑to‑end typesafe APIs  
+   - **Prisma** for modern database access  
+   - **Tailwind CSS** for clean, scalable UI design
 
-## 🌟 What I Bring  
-- Automating real‑world processes with AI  
-- End‑to‑end product delivery (mobile → cloud/desktop)  
-- Focus on performance, scalability, clean architecture
+### 📱 **Mobile Apps**
+- **React Native**, **Flutter** for cross‑platform mobile development.
 
+### 🤖 **AI / Automation**
+- **Python**: Neural networks, data processing  
+- **N8N**: Workflow automation  
+- **Vapi**: AI phone calls, virtual operators, and assistants  
+- **Rust**, **C++**, **Java** for system‑level or desktop applications.
+
+---
+
+## 🌟 **Featured Projects**
+
+### 🔹 [Vrakka](https://www.vrakka.app)
+Wellness mobile app combining habit tracking with tokenized incentives.  
+**Built with:** T3 Stack, React Native, Flutter.
+
+### 🔹 [Debor.ai](https://www.producthunt.com/products/debor-ai)
+AI-powered platform for transcribing and semantically analyzing legal cases.
+
+### 🔹 [Networking](https://networking-web.vercel.app/)
+Social network to connect professionals and expand opportunities.  
+**Built with:** T3 Stack, Next.js, tRPC, Prisma, Tailwind CSS.
+
+### 🔹 N8N & Vapi Integrations
+Custom AI workflows for real‑time process automation, including voice assistants and AI secretaries.
+
+---
+
+## ⚡ **What I Do Best**
+✅ Automate real‑world problems with AI workflows  
+✅ Build scalable, maintainable web & mobile applications  
+✅ Innovate by combining diverse stacks into practical solutions
+
+---
 ## 📫 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/tu-linkedin)  
+[LinkedIn]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/oscararielquintanamerino/))  
 
 ## 📊 Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rexlin28&show_icons=true&theme=radical)  
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rexlin28&layout=compact&theme=radical)
