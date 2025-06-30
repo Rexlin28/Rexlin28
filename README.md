@@ -51,8 +51,8 @@ Custom AI workflows for real‑time process automation, including voice assistan
 ---
 
 ## ⚡ **What I Do Best**
-✅ Automate real‑world problems with AI workflows  
 ✅ Build scalable, maintainable web & mobile applications  
+✅ Automate real‑world problems with AI workflows  
 ✅ Innovate by combining diverse stacks into practical solutions
 
 ---
