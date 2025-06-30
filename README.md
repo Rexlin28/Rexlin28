@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-# Rexlin Developer  
+# FullStack Developer  
 🔧 Full‑stack developer focusing on **T3 Stack**, **React Native**, **Flutter**, **Python AI**, **C++/Java/Rust**.
 
 ## 🚀 About Me  
